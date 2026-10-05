@@ -1,0 +1,14 @@
+# Runtime
+docling
+pydantic
+pydantic-settings
+APScheduler
+python-dotenv
+
+# LLM / API
+openai
+
+# Development / Testing
+pytest
+pytest-cov
+ruff
